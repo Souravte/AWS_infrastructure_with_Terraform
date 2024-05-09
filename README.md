@@ -1,2 +1,2 @@
 # AWS_infrastructure_with_Terraform
-AWS VPC setup using Terraform - ec2, rds, security groups, load balancer, internet gateway, route table.
+AWS VPC setup using Terraform - ec2, RDS, Security Groups, load balancer, internet gateway, Route table.
